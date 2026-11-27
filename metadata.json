@@ -1,0 +1,6 @@
+{
+  "name": "PDF BLOOM - All-in-One PDF Converter & AI Document Platform",
+  "description": "Every PDF Tool. One Powerful Workspace. Convert, edit, compress, organize and understand documents with powerful PDF and AI tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
